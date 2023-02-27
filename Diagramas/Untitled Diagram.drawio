@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T02:47:51.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.49" etag="P5FWNpZGkvWfB7iT3GxX" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-27T22:36:44.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.56" etag="UwgZB6iLGtbH82JaZ4wt" version="20.8.20" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Diagrama relacional">
     <mxGraphModel dx="880" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1424,107 +1424,130 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pIKcpbJrGLiCJoD9Y7Z8" name="Página-6">
-    <mxGraphModel dx="880" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="2227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-1" value="ARBOL DE PROBLEMAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="10" width="180" height="30" as="geometry" />
+        <mxCell id="xDh41kfMuPBUcTdUqmuN-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.shutterstock.com/image-vector/tree-vector-illustrations-roots-mangrove-600w-1318380719.jpg;clipPath=inset(7% 7.24% 3.33% 7.93%);" vertex="1" parent="1">
+          <mxGeometry x="140" y="-148.57" width="655.83" height="717.15" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-3" value="Descentralización de la información" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ARBOL DE PROBLEMAS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="347.92" y="-148.57" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-4" value="Perdida o alteración de la Información" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-3" value="Descentralización de la información" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="90" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-5" value="Demora en la localización de la información&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-4" value="Perdida o alteración de la Información" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="90" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-6" value="Falta de cumplimiento en la normatividad vigente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-5" value="Demora en la localización de la información&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-8" value="Poca confiabilidad por parte del consultante" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-8" value="Poca confiabilidad por parte del consultante" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-11" value="Diferentes técnicas&amp;nbsp; para almacenar la información" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-11" value="No se cuenta con técnicas&amp;nbsp; focalizadas para el almacenar la información" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-12" value="Manejo único de la información&lt;br&gt;(físico)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-12" value="Manejo único de la información&lt;br&gt;(físico)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-13" value="Daños o pérdidas de los soportes por el uso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-13" value="Daños o pérdidas de los soportes en físico, por el uso" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-14" value="Falta de aplicación de normas legales en cuanto al uso de la información" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-14" value="Falta de aplicación de normas legales en cuanto al uso de la información" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="585" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-16" value="Diferentes espacios de almacenamiento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-16" value="Se cuentan con diferentes espacios de almacenamiento, lo cual no focaliza la información" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="10" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ifqxvdoXmbEq0ecG-W-4-12">
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ifqxvdoXmbEq0ecG-W-4-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="300" as="sourcePoint" />
+            <mxPoint x="370" y="400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ifqxvdoXmbEq0ecG-W-4-17" target="ifqxvdoXmbEq0ecG-W-4-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ifqxvdoXmbEq0ecG-W-4-14">
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ifqxvdoXmbEq0ecG-W-4-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="300" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ifqxvdoXmbEq0ecG-W-4-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="300" as="sourcePoint" />
+            <mxPoint x="460" y="390" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="370" y="310" />
-              <mxPoint x="370" y="310" />
+              <mxPoint x="460" y="400" />
+              <mxPoint x="660" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ifqxvdoXmbEq0ecG-W-4-17" target="ifqxvdoXmbEq0ecG-W-4-5">
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ifqxvdoXmbEq0ecG-W-4-14" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="400" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="460" y="300" />
-              <mxPoint x="540" y="300" />
+              <mxPoint x="460" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ifqxvdoXmbEq0ecG-W-4-17" target="ifqxvdoXmbEq0ecG-W-4-16">
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ifqxvdoXmbEq0ecG-W-4-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="370" y="410" />
+              <mxPoint x="370" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ifqxvdoXmbEq0ecG-W-4-17" target="ifqxvdoXmbEq0ecG-W-4-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="400" />
+              <mxPoint x="540" y="400" />
+            </Array>
+            <mxPoint x="460" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ifqxvdoXmbEq0ecG-W-4-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="200" />
               <mxPoint x="460" y="200" />
             </Array>
+            <mxPoint x="460" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ifqxvdoXmbEq0ecG-W-4-6">
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="ifqxvdoXmbEq0ecG-W-4-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="130" />
+            </Array>
+            <mxPoint x="460" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ifqxvdoXmbEq0ecG-W-4-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="460" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ifqxvdoXmbEq0ecG-W-4-17" target="ifqxvdoXmbEq0ecG-W-4-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="130" />
+            </Array>
+            <mxPoint x="460" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ifqxvdoXmbEq0ecG-W-4-17" value="No se cuenta con la administración segura de la información demográfica e historias clínicas de los consultantes&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="300" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xDh41kfMuPBUcTdUqmuN-1" value="Falta de cumplimiento en la normatividad vigente que pueden generar sanciones." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xDh41kfMuPBUcTdUqmuN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" target="xDh41kfMuPBUcTdUqmuN-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="190" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ifqxvdoXmbEq0ecG-W-4-17" target="ifqxvdoXmbEq0ecG-W-4-3">
-          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="170" />
-              <mxPoint x="570" y="170" />
+              <mxPoint x="460" y="210" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ifqxvdoXmbEq0ecG-W-4-17" target="ifqxvdoXmbEq0ecG-W-4-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ifqxvdoXmbEq0ecG-W-4-17" target="ifqxvdoXmbEq0ecG-W-4-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="170" />
-              <mxPoint x="360" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ifqxvdoXmbEq0ecG-W-4-17" value="Administración segura de la información demográfica e historias clínicas de los consultantes&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="220" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
