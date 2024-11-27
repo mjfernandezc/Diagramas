@@ -504,7 +504,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4t6C6ogFT71r40ryj4R7" name="Página-5">
-    <mxGraphModel dx="969" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -792,6 +792,9 @@
             <mxPoint x="630" y="530" as="sourcePoint" />
             <mxPoint x="680" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-63" value="MODELO DE REQUERIMIENTOS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="-70" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
