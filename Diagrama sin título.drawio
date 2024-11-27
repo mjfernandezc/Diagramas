@@ -504,10 +504,46 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4t6C6ogFT71r40ryj4R7" name="Página-5">
-    <mxGraphModel dx="872" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-1" value="Sistema de&lt;div&gt;Prestamos de Películas&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-6" value="Gestión de Espera" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200.5" y="430" width="119" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-7" value="Administración" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-8" value="Consultas" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-9" value="Préstamo" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-10" value="&lt;b&gt;RF-001:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;font-size: 11px; line-height: 107%;&quot;&gt;El sistema debe&lt;br style=&quot;font-size: 11px;&quot;&gt;permitir realizar el préstamo de películas&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="20" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-11" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;RF-002:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;font-size: 11px; line-height: 107%;&quot;&gt;&lt;span style=&quot;font-size: 11px; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;El sistema debe&lt;br style=&quot;font-size: 11px;&quot;&gt;registrarla devolución de la película&lt;/span&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="19" y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-12" value="&lt;b&gt;RF-005:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;font-size: 11px; line-height: 107%;&quot;&gt;El sistema debe&lt;br style=&quot;font-size: 11px;&quot;&gt;permitir realizar el préstamo de películas&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="21" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-13" value="&lt;b&gt;RF-006:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;font-size: 11px; line-height: 107%;&quot;&gt;El sistema debe&lt;br style=&quot;font-size: 11px;&quot;&gt;permitir realizar el préstamo de películas&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="21" y="425" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-14" value="&lt;b&gt;RF-007:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;font-size: 11px; line-height: 107%;&quot;&gt;El sistema debe&lt;br style=&quot;font-size: 11px;&quot;&gt;permitir realizar el préstamo de películas&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="21" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-15" value="&lt;b&gt;RF-003:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;font-size: 11px; line-height: 107%;&quot;&gt;El sistema debe&lt;br style=&quot;font-size: 11px;&quot;&gt;permitir realizar el préstamo de películas&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="21" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPoFpgSinAXfCfTZGyuD-16" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;RF-004:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;font-size: 11px; line-height: 107%;&quot;&gt;&lt;span style=&quot;font-size: 11px; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;El sistema debe&lt;br style=&quot;font-size: 11px;&quot;&gt;registrarla devolución de la película&lt;/span&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
